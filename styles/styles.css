@@ -67,8 +67,11 @@ a:link, a:visited, a:active {
 }
 
 /* About CSS */
+.color-pf {
+  background-color: #000;
+}
+
 .bg-image3 {
-  background-image: url(/img/alexcover2.jpg);
   background-size: cover;
   height: 80vh;
 }
