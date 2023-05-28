@@ -1,6 +1,7 @@
 /* Background Image */
 .bg-image {
   background-image: url(https://pbs.twimg.com/media/FiuOnOzWIAI-l8-?format=jpg&name=medium);
+  background-color: #000;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -11,6 +12,7 @@
 
 .bg-image2 {
   background-image: url(/img/star-trails-1846734.jpg);
+  background-color: #000;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
